@@ -1,0 +1,12 @@
+/* Navbar.css or an existing CSS file */
+
+.bg-primary {
+    background-color: #000; /* Replace with your primary color */
+    transition: background-color 0.3s;
+  }
+  
+  .bg-transparent {
+    background-color: transparent;
+    transition: background-color 0.3s;
+  }
+  
