@@ -20,6 +20,7 @@ import {
     jobit,
     tripguide,
     enotes,
+    momentix
     
   } from "../assets";
   
@@ -188,48 +189,37 @@ import {
       image: enotes,
       source_code_link: "https://github.com/Lokendra443/Enotes_SpringBoot_Project",
     },
-    // {
-    //   name: "Job IT",
-    //   description:
-    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    //   tags: [
-    //     {
-    //       name: "react",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "restapi",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "scss",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: jobit,
-    //   source_code_link: "https://github.com/",
-    // },
-    // {
-    //   name: "Trip Guide",
-    //   description:
-    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/",
-    // },
+
+    {
+      name: "Momentix - Social Media Web Application",
+      description:
+        "Momentix is an innovative social media web application currently under development. The project involves building an interactive and dynamic platform where users can create and share posts, like and save content, manage profiles, follow and unfollow other users, and engage with posts through likes and comments.",
+      tags: [
+        {
+          name: "Spring Boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Material UI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: momentix,
+      source_code_link: "https://github.com/Lokendra443/Momentix-Social-Media-Web-Application.git",
+    },
+   
   ];
   
   export { services, technologies, experiences, testimonials, projects };

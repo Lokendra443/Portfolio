@@ -33,8 +33,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import enotes from './enotes.png';
+import momentix from './momentix.png'
 
 export {
+  momentix,
   enotes,
   materialUI,
   mysql,
