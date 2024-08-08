@@ -34,8 +34,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import enotes from './enotes.png';
 import momentix from './momentix.png'
+import BuyNJoy from './BuyNJoy.png'
 
 export {
+  BuyNJoy,
   momentix,
   enotes,
   materialUI,

@@ -1,4 +1,5 @@
 import {
+  BuyNJoy,
    
    materialUI,
    mysql,
@@ -218,6 +219,36 @@ import {
       ],
       image: momentix,
       source_code_link: "https://github.com/Lokendra443/Momentix-Social-Media-Web-Application.git",
+    },
+
+    {
+      name: "BuyNJoy - Ecommerce Web Application",
+      description:
+        "BuyNJoy is a full stack ecommerce platform offering a seamless shopping experience with features like a smooth cart and checkout system, searchable product listings, user reviews, and an admin dashboard for managing products and orders",
+      tags: [
+        {
+          name: "Spring Boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tailwind CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Material UI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: BuyNJoy,
+      source_code_link: "https://github.com/Lokendra443/BuyNJoy-Full-Stack-Ecommerce-Web-Application-.git",
     },
    
   ];
