@@ -35,8 +35,10 @@ import tripguide from "./tripguide.png";
 import enotes from './enotes.png';
 import momentix from './momentix.png'
 import BuyNJoy from './BuyNJoy.png'
+import ShopEase from './ShopEase.png'
 
 export {
+  ShopEase,
   BuyNJoy,
   momentix,
   enotes,

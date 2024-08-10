@@ -1,4 +1,5 @@
 import {
+  ShopEase,
   BuyNJoy,
    
    materialUI,
@@ -248,6 +249,40 @@ import {
         },
       ],
       image: BuyNJoy,
+      source_code_link: "https://github.com/Lokendra443/BuyNJoy-Full-Stack-Ecommerce-Web-Application-.git",
+    },
+
+    {
+      name: "ShopEase - Ecommerce Shopping",
+      description:
+        "ShopEase is a ecommerce platform offering a seamless shopping experience with features like a smooth cart and checkout system, product listings, and an admin dashboard for managing products and orders",
+      tags: [
+        {
+          name: "Spring Boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "BootStrap",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Thymeleaf",
+          color: "green-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Mysql",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: ShopEase,
       source_code_link: "https://github.com/Lokendra443/BuyNJoy-Full-Stack-Ecommerce-Web-Application-.git",
     },
    
