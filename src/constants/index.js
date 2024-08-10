@@ -283,7 +283,7 @@ import {
         },
       ],
       image: ShopEase,
-      source_code_link: "https://github.com/Lokendra443/BuyNJoy-Full-Stack-Ecommerce-Web-Application-.git",
+      source_code_link: "https://github.com/Lokendra443/ShopEase-Ecommerce-Shopping.git",
     },
    
   ];
