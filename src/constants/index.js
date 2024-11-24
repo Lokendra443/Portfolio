@@ -1,4 +1,5 @@
 import {
+  digihub,
   ShopEase,
   BuyNJoy,
    
@@ -130,13 +131,13 @@ import {
   
   const experiences = [
     {
-      title: "Title",
-      company_name: "Company Name",
-      icon: starbucks,
+      title: "Backend Java Developer Intern",
+      company_name: "Digihub",
+      icon: digihub,
       iconBg: "#383E56",
-      date: "Date",
+      date: "September 2024 - Present",
       points: [
-        "Searching for jobs",
+        "Designing and developing RESTful APIs.",
       ],
     },
 

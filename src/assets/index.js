@@ -21,7 +21,7 @@ import mysql from "./tech/mysql.png";
 import python from "./tech/python.webp";
 import java from "./tech/java.png";
 import springBoot from "./tech/spring boot.png";
-
+import digihub from "./tech/digihub_logo.jpg";
 
 // Importing company logos
 import meta from "./company/meta.png";
@@ -37,7 +37,9 @@ import momentix from './momentix.png'
 import BuyNJoy from './BuyNJoy.png'
 import ShopEase from './ShopEase.png'
 
+
 export {
+  digihub,
   ShopEase,
   BuyNJoy,
   momentix,
