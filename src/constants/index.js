@@ -2,28 +2,32 @@ import {
   digihub,
   ShopEase,
   BuyNJoy,
-   
-   materialUI,
-   mysql,
-   python,
-   java,
-   springBoot,
-   bootstrap,
-    backend,
-    web,
-    javascript,
-    html,
-    css,
-    reactjs,
-    tailwind,
-    git,
-    figma,
-    starbucks,
-    carrent,
-    jobit,
-    tripguide,
-    enotes,
-    momentix
+  materialUI,
+  mysql,
+  python,
+  java,
+  springBoot,
+  bootstrap,
+  backend,
+  web,
+  javascript,
+  html,
+  css,
+  reactjs,
+  tailwind,
+  git,
+  figma,
+  enotes,
+  momentix,
+  csharp,
+  jenkins,
+  mongodb,
+  docker,
+  kafka,
+  kubernetes,
+  postgresql,
+  postman,
+  swagger,
     
   } from "../assets";
   
@@ -54,33 +58,33 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full-Stack Developer",
       icon: web,
     },
-    // {
-    //   title: "Fronted Developer",
-    //   icon: fronted,
-    // },
     {
-      title: "Backend Developer",
+      title: "Fronted React.js",
+      icon: backend,
+    },
+    {
+      title: "Backend Java",
       icon: backend,
     },
     
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
+    // {
+    //   name: "HTML 5",
+    //   icon: html,
+    // },
+    // {
+    //   name: "CSS 3",
+    //   icon: css,
+    // },
+    // {
+    //   name: "JavaScript",
+    //   icon: javascript,
+    // },
     
     {
       name: "React JS",
@@ -92,19 +96,14 @@ import {
       icon: tailwind,
     },
 
-    {
-      name: "BootStrap",
-      icon: bootstrap,
-    },
-    {
-      name: "Material UI",
-      icon: materialUI,
-    },
-
-    {
-      name: "spring boot",
-      icon: springBoot,
-    },
+    // {
+    //   name: "BootStrap",
+    //   icon: bootstrap,
+    // },
+    // {
+    //   name: "Material UI",
+    //   icon: materialUI,
+    // },
     {
       name: "Java",
       icon: java,
@@ -114,18 +113,58 @@ import {
       icon: python,
     },
     {
+      name: "CSharp",
+      icon: csharp,
+    },
+    {
+      name: "Spring Boot",
+      icon: springBoot,
+    },
+    {
+      name: "Docker",
+      icon: docker,
+    },
+    {
+      name: "Kubernetes",
+      icon: kubernetes,
+    },
+    {
+      name: "Jenkins",
+      icon: jenkins,
+    },
+    {
+      name: "Kafka",
+      icon: kafka,
+    },
+    {
       name: "Mysql",
       icon: mysql,
     },
+    {
+      name: "Postgresql",
+      icon: postgresql,
+    },
+    {
+      name: "MongoDB",
+      icon: mongodb,
+    },
     
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
+    // {
+    //   name: "Postman",
+    //   icon: postman,
+    // },
+    // {
+    //   name: "Swagger",
+    //   icon: swagger,
+    // },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
     
   ];
   
@@ -135,9 +174,9 @@ import {
       company_name: "Digihub",
       icon: digihub,
       iconBg: "#383E56",
-      date: "September 2024 - Present",
+      date: "September 2024 - February 2025",
       points: [
-        "Designing and developing RESTful APIs.",
+        "Designing and developing RESTful APIs using Spring Boot.",
       ],
     },
 

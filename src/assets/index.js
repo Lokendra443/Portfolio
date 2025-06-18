@@ -1,7 +1,5 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -22,6 +20,16 @@ import python from "./tech/python.webp";
 import java from "./tech/java.png";
 import springBoot from "./tech/spring boot.png";
 import digihub from "./tech/digihub_logo.jpg";
+import csharp from "./tech/csharp.png"
+import jenkins from "./tech/jenkins.png"
+import kafka from "./tech/kafka.png"
+import kubernetes from "./tech/kubernetes.png"
+import postgresql from "./tech/postgresql.png"
+import postman from "./tech/postman.png"
+import swagger from "./tech/swagger.png"
+import docker from "./tech/docker.png"
+import mongodb from "./tech/mongodb.png"
+
 
 // Importing company logos
 import meta from "./company/meta.png";
@@ -39,6 +47,15 @@ import ShopEase from './ShopEase.png'
 
 
 export {
+  csharp,
+  jenkins,
+  mongodb,
+  docker,
+  kafka,
+  kubernetes,
+  postgresql,
+  postman,
+  swagger,
   digihub,
   ShopEase,
   BuyNJoy,
